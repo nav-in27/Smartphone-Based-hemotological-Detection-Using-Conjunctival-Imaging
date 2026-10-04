@@ -1,0 +1,6 @@
+{
+  "name": "ConjunctiAI — Smartphone Anemia Screening",
+  "description": "Research-grade smartphone-based hematological detection using conjunctival radiomics, computer vision, and calibrated machine learning models.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
